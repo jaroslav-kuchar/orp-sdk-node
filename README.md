@@ -1,4 +1,4 @@
-# Open Recommendation Platofrm - Node.js
+# ORP - Node.js
 
 Author: Jaroslav Kuchar
 
@@ -8,7 +8,8 @@ The official documentation is available on http://orp.plista.com/documentation .
 
 ## Install (Debian, Ubuntu)
 
-** Node.js ** 
+**Node.js** 
+
 ```
 NODE_VERSION="v0.10.24"
 apt-get update 
@@ -19,7 +20,8 @@ cd node-${NODE_VERSION}
 ./configure && make && sudo make install
 ```
 
-** Install dependencies, start server ** 
+**Install dependencies, start server** 
+
 ```
 npm install 
 node server.js
@@ -48,7 +50,7 @@ npm test
 
 ## Licence
 
-(The MIT License)
+(The MIT License)	
 
 Copyright (c) 2014 Jaroslav Kuchar
 

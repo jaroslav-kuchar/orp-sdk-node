@@ -45,7 +45,7 @@ node server.js
 ```
 npm test
 # or 
-./test.sh
+./test/test.sh
 ```
 
 ## Licence

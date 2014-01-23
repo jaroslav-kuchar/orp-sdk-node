@@ -1,0 +1,14 @@
+{
+  "name": "orp-sdk-node",
+  "version": "0.0.1",
+  "description": "orp-sdk-node",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "Jaroslav Kuchar",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
